@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T17:55:17.204Z" agent="5.0 (Windows)" etag="ihYYY2Zk-5nlG-jcns15" version="14.9.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-09T17:56:17.052Z" agent="5.0 (Windows)" etag="vglRLRCoXXWjOHiuANtp" version="14.9.5" type="github" pages="3">
   <diagram id="zpiqq8SH8chWRvqFM_pA" name="Linear Search">
     <mxGraphModel dx="1467" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
       <root>
         <mxCell id="QffOKtdmoEOczu6dY0f6-0" />
         <mxCell id="QffOKtdmoEOczu6dY0f6-1" parent="QffOKtdmoEOczu6dY0f6-0" />
-        <mxCell id="hPyfiexCMPeBj9-5zCBw-0" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;arr = [ ]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;n = array.length&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;i, j, key&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#1ba1e2;" vertex="1" parent="QffOKtdmoEOczu6dY0f6-1">
+        <mxCell id="hPyfiexCMPeBj9-5zCBw-0" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;arr = [ ]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;n = arr.length&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;i, j, key&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#1ba1e2;" vertex="1" parent="QffOKtdmoEOczu6dY0f6-1">
           <mxGeometry x="239" y="61" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hPyfiexCMPeBj9-5zCBw-1" value="" style="endArrow=classic;html=1;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QffOKtdmoEOczu6dY0f6-1" source="hPyfiexCMPeBj9-5zCBw-0" target="hPyfiexCMPeBj9-5zCBw-3">
